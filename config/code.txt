@@ -1,0 +1,7 @@
+URL:  https://app.snowflake.com/us-west-2/sha70072/dashboards
+用户名： nlu0001
+密码：!Test1234
+
+
+////////////
+https://gitlab.vectbase.com:9999/vectweb/user-web

@@ -1,0 +1,70 @@
+<template>
+  <div class="wrapper">
+    <div class="auth-content">
+      <div class="card">
+        <div class="card-body text-center">
+          <div class="mb-4">
+            <img class="brand" src="assets/img/bootstraper-logo.png" alt="bootstraper logo">
+          </div>
+          <h6 class="mb-4 text-muted">Login to your account</h6>
+          <form action="" method="">
+            <div class="mb-3 text-start">
+              <el-input type="email" class="form-control" placeholder="Enter Email" required></el-input>
+            </div>
+            <div class="mb-3 text-start">
+              <label for="password" class="form-label">Password</label>
+              <input type="password" class="form-control" placeholder="Password" required>
+            </div>
+            <div class="mb-3 text-start">
+              <div class="form-check">
+                <input class="form-check-input" name="remember" type="checkbox" value="" id="check1">
+                <label class="form-check-label" for="check1">
+                  Remember me on this device
+                </label>
+              </div>
+            </div>
+            <button class="btn btn-primary shadow-2 mb-4">Login</button>
+          </form>
+          <p class="mb-2 text-muted">Forgot password?
+            <router-link :to="{name:'forgotPassword'}">
+              <a>Reset</a>
+            </router-link>
+
+<!--            <a href="forgot-password.html">Reset</a></p>-->
+          <p class="mb-0 text-muted">Don't have account yet?
+          <router-link :to="{name:'signup'}">
+            <a>Signup</a>
+          </router-link>
+        </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</template>
+
+<!--<script src="assets/vendor/jquery/jquery.min.js"></script>-->
+<!--<script src="assets/vendor/bootstrap/js/bootstrap.min.js"></script>-->
+
+<script>
+import '../../assets/assetsbootstrap/vendor/jquery/jquery.min.js'
+import '../../assets/assetsbootstrap/vendor/bootstrap/js/bootstrap.bundle.min.js'
+
+export default {
+  name: 'Login',
+  data () {
+    return {
+      msg: 'Login'
+    }
+  }
+}
+</script>
+
+<!-- Add "scoped" attribute to limit CSS to this component only -->
+<!--<link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">-->
+<!--<link href="assets/css/auth.css" rel="stylesheet">-->
+
+<style scoped>
+  @import "../../assets/assetsbootstrap/vendor/bootstrap/css/bootstrap.min.css";
+  @import "../../assets/assetsbootstrap/css/auth.css";
+
+</style>

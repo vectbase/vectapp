@@ -1,0 +1,16 @@
+这目录下的配置文件是 全局配置，
+在各自的组件下面，有局部特有的配置文件
+
+const langEn = {
+
+  language: {
+    name: 'English'
+  },
+  navbar: {
+    home: 'en-home'
+  },
+  hello: '中文号',
+  'hello2': '、世界!'
+}
+
+export default langEn
