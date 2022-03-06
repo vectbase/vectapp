@@ -4,6 +4,7 @@ When snowflake appeared, we were very excited to see the dawn of cloud data serv
 
 
 
+
 ## Build Setup
 
 ``` bash
@@ -35,3 +36,4 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 ## About Us
 
 Vectbase is a high-tech enterprise engaged in data storing and processing on the cloud. We are committed to creating easy-to-use OLAP tools for our customers.
+http://www.vectbase.com/
