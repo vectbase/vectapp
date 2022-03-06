@@ -17,6 +17,8 @@
 ## 前端效果图
 
 完整视频介绍，请看doc/video目录
+<video width="1680" alt="vectbase-info" src="https://github.com/vectbase/vectapp/blob/master/doc/video/info-vectbase-lu.mov">
+
 
 入口页面
 <img width="1680" alt="vectapp-login" src="https://user-images.githubusercontent.com/15904680/156934464-ede6df30-275b-4344-b472-cb3eb8b7bef1.png">
