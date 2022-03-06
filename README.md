@@ -14,6 +14,10 @@
 
 未来的数据平台，将不再是我们看到的样子，它将更加高效、更加安全、更加便捷、更加智能，更加有意义！祝好，一切的同行者们
 
+## 前端效果图
+
+![image](https://github.com/vectbase/vectapp/blob/master/doc/img/vectapp-login.png)
+
 
 ## 前端项目的编译
 
