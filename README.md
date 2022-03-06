@@ -35,7 +35,6 @@ database
 <img width="1680" alt="vectapp-database-2" src="https://user-images.githubusercontent.com/15904680/156934565-83188b08-57d0-4b1b-826e-d03ff94e70c9.png">
 
 查询历史
-<img width="1680" alt="vectapp-queryhistory" src="https://user-images.githubusercontent.com/15904680/156934596-b5638443-25dd-4658-8962-7bb33dc66ae6.png">
 <img width="1680" alt="vectapp-queryhistory-3" src="https://user-images.githubusercontent.com/15904680/156934637-47e9b51d-774b-4da4-88fa-56b5306e20a3.png">
 
 用户
