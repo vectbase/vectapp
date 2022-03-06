@@ -1,6 +1,8 @@
-# vuser-web_project
+# VectApp
 
-> A Vue.js project
+When snowflake appeared, we were very excited to see the dawn of cloud data services and the data changes brought about. We conducted research around snowflake, databricks, airtable and other products, and decided to use a page similar to snowflake to develop front-end products in the first edition. Unfortunately, with the departure of our technical partner, our entrepreneurial dream came to an end, so we decided to open source the code, hoping to help our friends with the same dream.
+
+
 
 ## Build Setup
 
@@ -28,3 +30,8 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+## About Us
+
+Vectbase is a high-tech enterprise engaged in data storing and processing on the cloud. We are committed to creating easy-to-use OLAP tools for our customers.
